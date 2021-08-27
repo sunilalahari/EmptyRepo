@@ -1,0 +1,7 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+   <s:Body>
+      <TryGetByDocumentIdResponse xmlns="https://www.capita.co.uk/TfL/docstore">
+         <TryGetByDocumentIdResult/>
+      </TryGetByDocumentIdResponse>
+   </s:Body>
+</s:Envelope>

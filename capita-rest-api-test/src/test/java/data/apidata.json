@@ -1,0 +1,14 @@
+{
+	"dev": {
+		"url": "https://asds01z1aeun-api.ase02z1aeun.appserviceenvironment.net",
+		"common_path": "/Documents/Document",
+		"source_system1": "/ACC/",
+		"source_system2": "Related/"
+	},
+	"test": {
+		"url": "https://asds01z1aeun-api.ase02z1aeun.appserviceenvironment.net",
+		"common_path": "/Documents/Document",
+		"source_system1": "/ACC/",
+		"source_system2": "Related/"
+	}
+}

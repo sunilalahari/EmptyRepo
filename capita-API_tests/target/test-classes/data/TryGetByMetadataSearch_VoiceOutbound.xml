@@ -1,0 +1,25 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+   <s:Header/>
+   <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <TryGetByMetadataSearch xmlns="https://www.capita.co.uk/TfL/docstore">
+         <repository>#(repository)</repository>
+         <sourceSystem>#(sourcesystem)</sourceSystem>
+         <metadata xsi:type="VoiceOutbound">
+            <FileName>Image.png</FileName>
+            <Submitter>145202</Submitter>
+            <CorrespondenceID>#(corrid)</CorrespondenceID>
+            <Comment>demo</Comment>
+           <SubCategory>
+               <string>ACCBNKUPD</string>
+               <string>ACCBNKUPD</string>
+            </SubCategory>
+            <AccountNumber>AccountNUmber</AccountNumber>
+            <PCNNumber>pcnno</PCNNumber>
+            <SelfID>sadsdfa</SelfID>
+            <Sent>2020-06-13T04:00:24.2841913Z</Sent>
+            <To>Sudarshan</To>
+         </metadata>
+         <added>2020-06-23T04:00:24.284191Z</added>
+      </TryGetByMetadataSearch>
+   </s:Body>
+</s:Envelope>

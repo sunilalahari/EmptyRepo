@@ -1,0 +1,12 @@
+{
+	"dev": {
+		"url": "https://devcapitasearchapp.z19.web.core.windows.net/auth/login",
+		"username": "karate dsl",
+		"match_url": "https://github.com/intuit/karate"
+	},
+	"test": {
+		"url": "https://google.com",
+		"search_value": "selenium",
+		"match_url": "https://www.selenium.dev/"
+	}
+}

@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="https://www.capita.co.uk/TfL/docstore">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <doc:DeleteByDocumentId>
+         <!--Optional:-->
+         <doc:documentId>#(RelatedDocID)</doc:documentId>
+      </doc:DeleteByDocumentId>
+   </soapenv:Body>
+</soapenv:Envelope>

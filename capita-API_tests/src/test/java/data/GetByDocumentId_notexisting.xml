@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="https://www.capita.co.uk/TfL/docstore">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <doc:GetByDocumentId>
+         <!--Optional:-->
+         <doc:documentId>BOPS202006130ACC-122</doc:documentId>
+      </doc:GetByDocumentId>
+   </soapenv:Body>
+</soapenv:Envelope>

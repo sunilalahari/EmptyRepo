@@ -1,0 +1,27 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+   <s:Header>
+      <TFL-AccountNumber xmlns="https://www.capita.co.uk/TfL/docstore">AccountNUmber</TFL-AccountNumber>
+      <TFL-PCNNumber xmlns="https://www.capita.co.uk/TfL/docstore">pcnno</TFL-PCNNumber>
+      <TFL-SelfID xmlns="https://www.capita.co.uk/TfL/docstore">sadsdfa</TFL-SelfID>
+      <TFL-Category xmlns="https://www.capita.co.uk/TfL/docstore">Account maintenance</TFL-Category>
+      <TFL-SubCategory xmlns="https://www.capita.co.uk/TfL/docstore">Update bank details for Reimbursement Partner BACS payments</TFL-SubCategory>
+      <TFL-Received xmlns="https://www.capita.co.uk/TfL/docstore">2020-06-13T04:00:24z</TFL-Received>
+      <TFL-RelatedDocumentID xmlns="https://www.capita.co.uk/TfL/docstore">#(RelatedDocID)</TFL-RelatedDocumentID>
+      <TFL-FileName xmlns="https://www.capita.co.uk/TfL/docstore">Image.png</TFL-FileName>
+      <TFL-Submitter xmlns="https://www.capita.co.uk/TfL/docstore">145202</TFL-Submitter>
+      <TFL-CorrespondenceID xmlns="https://www.capita.co.uk/TfL/docstore">#(corrid)</TFL-CorrespondenceID>
+      <TFL-Comment xmlns="https://www.capita.co.uk/TfL/docstore">demo3</TFL-Comment>
+      <TFL-Created xmlns="https://www.capita.co.uk/TfL/docstore">#string</TFL-Created>
+      <TFL-Modified xmlns="https://www.capita.co.uk/TfL/docstore">#string</TFL-Modified>
+      <TFL-Contract xmlns="https://www.capita.co.uk/TfL/docstore">#(contract)</TFL-Contract>
+      <TFL-DocumentID xmlns="https://www.capita.co.uk/TfL/docstore">#(docid)</TFL-DocumentID>
+      <TFL-Repository xmlns="https://www.capita.co.uk/TfL/docstore">#(repository)</TFL-Repository>
+      <TFL-SourceSystem xmlns="https://www.capita.co.uk/TfL/docstore">#(sourcesystem)</TFL-SourceSystem>
+      <TFL-Version xmlns="https://www.capita.co.uk/TfL/docstore">3.0</TFL-Version>
+   </s:Header>
+   <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <UpdateByCorrespondenceIdResponse xmlns="https://www.capita.co.uk/TfL/docstore">
+         <UpdateByCorrespondenceIdResult>3.0</UpdateByCorrespondenceIdResult>
+      </UpdateByCorrespondenceIdResponse>
+   </s:Body>
+</s:Envelope>

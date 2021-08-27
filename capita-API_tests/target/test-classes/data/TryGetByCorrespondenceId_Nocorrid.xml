@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="https://www.capita.co.uk/TfL/docstore">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <doc:TryGetByCorrespondenceId>
+         <!--Optional:-->
+         <doc:sourceSystem>#(sourcesystem)</doc:sourceSystem>
+         <!--Optional:-->
+      </doc:TryGetByCorrespondenceId>
+   </soapenv:Body>
+</soapenv:Envelope>

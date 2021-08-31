@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-\all deleted and tested.
-=======
-HI I am scond file.
-Updated reyyy..
 
-updated from my local again....
-Bad Boy..
-Sunil Lahari
->>>>>>> 6dd32cb8e7e19651375343c69ba8ccb93f7ae88d
+\all deleted and tested.
+
